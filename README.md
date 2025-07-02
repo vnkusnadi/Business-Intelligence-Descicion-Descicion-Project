@@ -2,6 +2,13 @@
 
 Welcome to my **Business Intelligence & Decision Analytics academic project repository**! Here, I document the journey of collaboratively building, training, and evaluating **machine learning models** for business intelligence solutions with a friend, focusing on practical data-driven decision-making.
 
+In our academic projects, we followed **three clear phases**:
+
+1️⃣ **Phase 1: Data Split** – dividing the dataset into training and testing sets to ensure accurate model evaluation.  
+2️⃣ **Phase 2: Data Cleaning** – handling missing values, encoding categorical data, and normalizing features to prepare the data for modeling.  
+3️⃣ **Phase 3: Model Implementation and Analysis** – applying and tuning machine learning models while tracking error rates and insights for business intelligence decision-making.
+
+These phases structured our workflow for consistent, professional academic projects and results.
 ---
 
 ## 🚀 Project Overview
@@ -51,9 +58,9 @@ We discovered that **Model 3 (KNN with k=3) outperformed all other models**, mak
 
 ## 🛠️ Further Improvement Plan
 
-✅ Improve all five models using **Python (scikit-learn, pandas, matplotlib)** for deeper parameter tuning and visual analysis.
+✅ Execute "Phase 4: Model Improvement.", that is to improve all five models using **Python (scikit-learn, pandas, matplotlib)** for deeper parameter tuning and visual analysis.
 
-✅ **Implement advanced models:**
+✅ Execute "Phase 5: **Implement advanced models**":
 - **Model 6:** Random Forest Classifier to test its ensemble power vs. individual models.
 - **Model 7:** Neural Network for potential non-linear improvements and comparison.
 
