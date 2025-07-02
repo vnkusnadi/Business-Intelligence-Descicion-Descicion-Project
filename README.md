@@ -80,17 +80,6 @@ We regularly discussed improvements and next steps, fostering clear and effectiv
 - Test the scalability of our models with larger datasets.
 - Apply these models to practical business cases like churn prediction or customer segmentation.
 
----
-
-## 🖥️ Repository Navigation
-
-```
-📁 data/                 # Dataset and cleaned CSV files
-📁 models/               # Saved models and configuration files
-📁 reports/              # Model comparison results and graphs
-📄 analysis.ipynb        # Python notebook for further improvements
-📄 README.md             # Project overview (this file)
-```
 
 ---
 
